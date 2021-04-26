@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">LifeFirst</string>
+<string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+
+    <string name="first_slide_title">Get necessary Information</string>
+    <string name="third_slide_title">Medical kit providence</string>
+    <string name="second_slide_title">Vaccination drives</string>
+    <string name="fourth_slide_title">Check bed availability</string>
+
+
+    <string name="first_slide_desc">The app focuses on providing all necessary information regarding hospitals,doctors contact,medicines availability to your nearest location</string>
+    <string name="second_slide_desc">It consists of all necessary medicines and also helps regarding the providence of oxygen cylinder</string>
+    <string name="third_slide_desc">People can information regarding the vaccination campaingns carried out at nearby places to get themselves vaccinated</string>
+    <string name="fourth_slide_desc">One can check the latest information regarding availability of beds at the hospitals </string>
+
+    <string name="skip_btn">Skip</string>
+
+    <string name="lets_get_started">Lets get started</string>
+</resources>

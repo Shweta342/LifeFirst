@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+
+        <item android:id="@+id/dashboard"
+            android:icon="@drawable/dashboard"
+            android:title="Dashboard"/>
+
+
+        <item android:id="@+id/maps"
+            android:icon="@drawable/maps"
+            android:title="Locations on map"/>
+
+        <item android:id="@+id/oxygen"
+            android:icon="@drawable/oxygen"
+            android:title="Oxygen cylinders availability"/>
+
+        <item android:id="@+id/symptoms"
+            android:icon="@drawable/symptoms"
+            android:title="Symptoms"/>
+
+        <item android:id="@+id/info"
+            android:icon="@drawable/info"
+            android:title="Treatment"/>
+
+        <item android:id="@+id/profile"
+            android:icon="@drawable/profile"
+            android:title="Profile"/>
+
+    </group>
+
+
+
+</menu>
